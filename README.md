@@ -43,7 +43,7 @@ This repository provides clear explanations and examples of the core mathematica
 - Principal Component Analysis (PCA)
 
   <div align="center" >
-  <img src="./images/3.gif" alt="description" width="40%">
+  <img src="./images/3.gif" alt="description" width="50%">
 </div>
 
 ### 2. Calculus
